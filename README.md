@@ -21,8 +21,8 @@ Building at the intersection of **frontier AI** and **real-world finance**. I tr
 
 #### Tencent Cloud — Core Member, Cloud OS Team
 
-- **First inventor** of the AI scheduling algorithm for VM migration
-- Reduced cloud infrastructure costs by **15%**, saving tens of millions annually
+- Inventor of the **Cloud OS resource AI scheduling algorithm** patent
+- The algorithm reduced cloud infrastructure costs by **15%**, saving tens of millions annually
 - Patent [**CN110162379A**](https://patents.google.com/patent/CN110162379A) — _Virtual Machine Migration Method, Apparatus and Computer Equipment_
   - Inventor: Cheng Yijue (成一爵) · Tencent Technology (Shenzhen) / Tencent Cloud Computing (Beijing) · Status: **Active**
 
